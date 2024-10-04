@@ -54,7 +54,7 @@ Club8 is a Flutter application that allows users to create and manage hotspot ex
 
 ## Working Demo
 
-[Attach a short demo clip of screen recording showcasing the app's functionalities here]
+https://github.com/user-attachments/assets/de7a327e-4df8-4623-82a5-c34bf2eb8d1c
 
 ## Getting Started
 
